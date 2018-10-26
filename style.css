@@ -82,6 +82,12 @@ border-bottom: 10px solid #2c3531;
   color:#000;
   font-size: 20px;
 }
+.valoress{
+  padding:25px;
+  background-color:#f5f5d5;
+  color:#000;
+  font-size: 17px;
+}
 .ses{
   color:#fc4445;
 }
